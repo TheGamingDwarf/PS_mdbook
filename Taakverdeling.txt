@@ -1,4 +1,4 @@
 Activity diagrams: Daan/Mark
-Sequence/state diagram: Daan/Mark
+Sequence/state diagram: Daan/Mark/Mike
 Solidworks: Daniël/Mats, in de les van 27 sept
 Eplan: nog te vroeg
