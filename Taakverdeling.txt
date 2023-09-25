@@ -1,2 +1,4 @@
-(activity) diagrams: Daan/Mike?
-Solidworks: Daniël, in de les van 27 sept
+Activity diagrams: Daan/Mark
+Sequence/state diagram: Daan/Mark
+Solidworks: Daniël/Mats, in de les van 27 sept
+Eplan: nog te vroeg
